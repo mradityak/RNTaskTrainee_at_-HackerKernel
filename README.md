@@ -27,6 +27,10 @@ This app allows users to manage a product list locally, including adding, viewin
 
 ## 📸 Screenshots
 
+![WhatsApp Image 2025-07-01 at 15 24 22_61c3a0ce](https://github.com/user-attachments/assets/bd63e029-c479-42f4-b9d2-dbe263669d68)
+![WhatsApp Image 2025-07-01 at 15 24 21_480e87b8](https://github.com/user-attachments/assets/3d9491db-471c-41d8-832a-fa2b0af6c2b5)
+![WhatsApp Image 2025-07-01 at 15 24 21_1c182290](https://github.com/user-attachments/assets/b2a6d9cb-40aa-42fc-8831-5373b711bd17)
+
 > Add screenshots here showing:
 > - Add Product screen
 > - Product Grid View
