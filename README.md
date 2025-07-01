@@ -112,7 +112,7 @@ npx expo start
 
 **Aditya Kumar**  
 🔗 [GitHub: mradityak](https://github.com/mradityak)  
-🔗 [LinkedIn (replace with your link)](https://www.linkedin.com/in/aditya-kumar-141a202b2)
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-kumar-141a202b2)
 
 ---
 
